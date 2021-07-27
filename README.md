@@ -1,1 +1,13 @@
-# github_practice
+# 自己紹介
+
+## 好きなアイスは？
+スイカバー、アイスの実
+
+## 年齢
+31
+
+## Twitter
+ayakocareer
+
+## 好きなお酒
+びーる
